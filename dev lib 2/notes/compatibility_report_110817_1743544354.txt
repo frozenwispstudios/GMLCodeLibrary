@@ -1,0 +1,8 @@
+Converting GML script : ${project_dir}\scripts\scr_draw_reset\scr_draw_reset.gml
+Converted description : /// @description  scr_draw_reset()/// @function  scr_draw_reset
+
+Converting GML script : ${project_dir}\scripts\scr_hex_to_rgb\scr_hex_to_rgb.gml
+Converted description : /// @description  scr_hex_to_rgb(value)/// @function  scr_hex_to_rgb
+/// @param value
+
+added compatibility script draw/draw_set_blend_mode.gml
